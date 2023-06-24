@@ -6,12 +6,11 @@ The Calorie Calculator is a simple Python program that calculates the daily calo
 
 - Supports both male and female calorie calculations.
 - Input validation for age, height, and weight.
-- Error handling for invalid inputs.
 - Provides clear output of the calculated calorie intake.
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 
 ## Usage
 
